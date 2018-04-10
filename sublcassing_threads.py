@@ -69,8 +69,8 @@ for i in range(4):
  
  
  #Changing overriding __init__
-def __init__(self, group=None, target=None, name=None,
-args=(), kwargs=None, *, daemon=None):
+#def __init__(self, group=None, target=None, name=None,
+#args=(), kwargs=None, *, daemon=None):
 
 
 import time
